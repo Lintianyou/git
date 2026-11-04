@@ -1,0 +1,3 @@
+*.bat text eol=crlf
+*.md text
+.gitattributes text
